@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instruction_types>
+    <instruction>
+        <type>miss</type>
+        <description>Miss a go</description>
+        <attr_list>
+        </attr_list>
+    </instruction>
+    <instruction>
+        <type>trans</type>
+        <description>travel immediately to a place</description>
+        <attr_list>
+            <attr>color</attr>
+            <attr>place</attr>
+        </attr_list>
+    </instruction>
+    <instruction>
+        <type>move</type>
+        <description>move on x cities further</description>
+        <attr_list>
+            <attr>when</attr>
+            <attr>cities</attr>
+        </attr_list>
+    </instruction>
+    <instruction>
+        <type>dice</type>
+        <description>throw extra dice</description>
+        <attr_list>
+            <attr>when</attr>
+        </attr_list>
+    </instruction>
+    <instruction>
+        <type>card</type>
+        <description>take the top place card from specified tile and include this city in your route</description>
+        <attr_list>
+            <attr>color</attr>
+        </attr_list>
+    </instruction>
+    <instruction>
+        <type>score</type>
+        <description>get/lose x points in the next round</description>
+        <attr_list>
+            <attr>points</attr>
+        </attr_list>
+    </instruction>
+    <instruction>
+        <type>destination</type>
+        <description>journey straight on to your next destination</description>
+        <attr_list>
+        </attr_list>
+    </instruction>
+    <instruction>
+        <type>limit</type>
+        <description>in the next round you may move as far as either city1 or city2</description>
+        <attr_list>
+            <attr>choice1</attr>
+            <attr>color1</attr>
+            <attr>choice2</attr>
+            <attr>color2</attr>
+        </attr_list>
+    </instruction>
+    <instruction>
+        <type>plane</type>
+        <description>you must continue your journey by plane on your next go</description>
+        <attr_list>
+        </attr_list>
+    </instruction>
+</instruction_types>
