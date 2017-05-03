@@ -9,4 +9,4 @@ The limitation of using only one mode of transportation per turn increases the a
 The first player to visit all their cities and return home wins.
 
 Video:
-https://www.google.com/search?q=JourneyThroughEurope&rlz=1C5CHFA_enUS711US712&oq=JourneyThroughEurope&aqs=chrome..69i57j0l5.469j0j7&sourceid=chrome&ie=UTF-8#q=JourneyThroughEurope+cse+219 
+https://www.youtube.com/watch?v=ufoh5OcTz1g
